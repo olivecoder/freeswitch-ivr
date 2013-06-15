@@ -1,0 +1,10 @@
+Tools for build, debug and test IVR applications for FreeSWITCH
+
+FEATURES
+- High level IVR functions like menus and data input with prompt
+- Does not need record prompts to start developing (transparent Google TTS)
+- Make tests even without a FreeSWITCH server
+- Run automatic tests
+
+HOW TO USE
+Please take a look at example.py

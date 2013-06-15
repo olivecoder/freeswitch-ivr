@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/!svn/ver/4169/fsivr/fsivr
+END
+fakesession.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4002/fsivr/fsivr/fakesession.py
+END
+tts.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/4169/fsivr/fsivr/tts.py
+END
+ivrbase.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/3941/fsivr/fsivr/ivrbase.py
+END
+say_digit.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/4002/fsivr/fsivr/say_digit.py
+END
+http_client.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/3902/fsivr/fsivr/http_client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/3765/fsivr/fsivr/__init__.py
+END
+modivr.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/4003/fsivr/fsivr/modivr.py
+END
+log.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/3765/fsivr/fsivr/log.py
+END
